@@ -40,7 +40,7 @@
         👉 Ir a *"I) Enriquesimiento de datos, Anexo Especial b)"* usando el índice lateral.
 
         4. Integración de Datos: Combinar los sets de datos de ventas y marketing para obtener una visión más amplia de las tendencias.<br>
-        👉 Punto Desafectado de esta entrega.
+        👉 Ir a "J) Integración de datos los DataFrames, sección b)"
         <br>
 
 *   **Anexo:**
