@@ -1,6 +1,6 @@
 #COMISION 25262 - DATA ANALYTICS
 
->  ## ETAPA:  *"Pre Entrega Proyecto"*.
+>  ## ETAPA:  *"Entrega Final Proyecto"*.
    **Alumno**: Javier Marcelo Espiñeira (DNI 23.146.908).
 
 ## Guía para el lector / evaluador. (Sobre enunciado original propuesto)
