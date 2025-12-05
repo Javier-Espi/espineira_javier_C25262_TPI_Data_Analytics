@@ -3,6 +3,7 @@
 >  ## ETAPA:  *"Entrega Final Proyecto"*.
    **Alumno**: Javier Marcelo Espiñeira (DNI 23.146.908).
 
+
 ## Guía para el lector / evaluador. (Sobre enunciado original propuesto)
 *   **Sección 1:** Recopilación y Preparación de Datos (Clases 1 a 4)
     *   ***Objetivo:** Demostrar habilidades en Python, familiaridad con el entorno de trabajo y conocimientos básicos sobre manipulación de datos.*
@@ -41,14 +42,51 @@
 
         4. Integración de Datos: Combinar los sets de datos de ventas y marketing para obtener una visión más amplia de las tendencias.<br>
         👉 Ir a "J) Integración de datos los DataFrames, sección b)"
+         <br>
+
+
+*   **Sección 3:** Análisis de Datos
+
+    *   ***Objetivo:** Realizar análisis estadístico y exploratorio sobre los datos procesados.*
+
+    *   **Actividades realizadas:**
+
+        1. Estadística Descriptiva: Calcular medidas de tendencia central y dispersión sobre las ventas. Presentar los resultados en un informe.<br>
+        👉 Ir a *"D), E) y principalmente K) Exploración y análisis gráfico/estadístico final de los datos."* usando el índice lateral.
+
+        2. Análisis Exploratorio de Datos (EDA): Realizar un análisis exploratorio utilizando visualizaciones para identificar patrones y tendencias en las ventas.<br>
+        👉 Ir a *" K) Exploración y análisis gráfico/estadístico final de los datos."* usando el índice lateral.
+
+        3. Correlación: Evaluar la relación entre diferentes variables (por ejemplo, precio y cantidad vendida) y mostrar los resultados en un gráfico.<br>
+        👉 Ir a *" K) Exploración y análisis gráfico/estadístico final de los datos.", punto c)* usando el índice lateral.
+
+        4. Consolidación de Datos: Consolidar todos los análisis previos y preparar un conjunto de datos final que resuma los hallazgos clave para la presentación.<br>
+        👉 Ir a *"L) Conversion final de los DataFrame modificados a CSV."* usando el índice lateral.       
         <br>
+
+*   **Sección 4:** Visualización de Datos
+
+    *   ***Objetivo:** Aprender a visualizar datos de manera efectiva utilizando diversas bibliotecas.*
+
+    *   **Actividades realizadas:**
+
+        1. Visualización con Matplotlib: Crear gráficos básicos (líneas, barras, dispersión) que representen las ventas con diferentes periodos de tiempo.<br>
+        👉 Ir a *"K) Exploración y análisis gráfico/estadístico final de los datos."* usando el índice lateral."* usando el índice lateral.
+
+        2. Visualización Avanzada con Seaborn: Desarrollar visualizaciones estadísticas avanzadas, utilizando paletas y estilos para mejorar la presentación.<br>
+        👉 Ir a *"K) Exploración y análisis gráfico/estadístico final de los datos."* usando el índice lateral."* usando el índice lateral.
+
+        3. Visualización Interactiva con Plotly: Construir un dashboard interactivo que combine múltiples visualizaciones, permitiendo al usuario explorar los datos dinámicamente.<br>
+        👉 Ir a *"K) Exploración y análisis gráfico/estadístico final de los datos."* usando el índice lateral."* usando el índice lateral.
+
+        4. Presentación Final: Preparar una presentación que resuma los hallazgos, insights y visualizaciones generadas a lo largo del proyecto. Presentar ante un panel simulado de "expertos" en SynthData, recibiendo feedback sobre el trabajo realizado.<br>
+        👉 Ir a *"M) Resumen conclusiones finales."* usando el índice lateral.
+<br>
 
 *   **Anexo:**
 
     *   ***Objetivo:** Descripción y links a todos los archivos adicionales.*
 
-    *    Descripciones de archivos y links.<br>
-         👉 Tarea Descontinuada.
+    *    Descripciones de archivos y versiones.<br>
+      👉 Ir a *"N) ANEXO Nombre de Archivos y versionado utilizado."* usando el índice lateral.
   <br>
-
-
